@@ -1,4 +1,4 @@
-# Portfolio_Site
+# Portfolio_Website
 
 Ιn this project, we built a portfolio website. 
 It was provided a design mockup as a PDF-file, and we had to replicate that design in HTML and CSS.
