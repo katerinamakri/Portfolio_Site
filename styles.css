@@ -108,22 +108,25 @@ body {
 .projects_container {
 	display: flex;
 	flex-wrap: wrap;
+	max-width: 100%;
 	text-align: center;
 	margin-bottom: 1em;
 }
 
 .project_border {
 	flex: 1;
+    flex-basis: 25%;	
 	margin: 12px;
+
 }
 
-.project_border:nth-child(3n) {
+/*.project_border:nth-child(3n) {
 	margin-right: 0;
 }
 
 .project_border:nth-child(3n+1) {
 	margin-left: 0;
-}
+}*/
 
 .project {
 	height: 100%;
